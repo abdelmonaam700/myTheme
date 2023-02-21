@@ -678,6 +678,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "fbe4475c-1729-4638-b94f-5f481735fceb",
+            "title": "banner-full-width",
+            "icon": "sicon-store",
+            "path": "home.fixed-banner-full-width",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
