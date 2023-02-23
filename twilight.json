@@ -683,7 +683,7 @@
         {
             "key": "8608f684-f6c6-4876-8b69-667b34c18596",
             "title": "fixed-banner-full-width",
-            "icon": "sicon-store",
+            "icon": "sicon-frame-image",
             "path": "home.fixed-banner-full-width",
             "fields": []
         }
