@@ -13,6 +13,7 @@
         "unite-cards-height",
         "component-featured-products",
         "component-fixed-banner",
+        "component-fixed-banner-full-width",
         "component-fixed-products",
         "component-products-slider",
         "component-photos-slider",
@@ -676,93 +677,6 @@
                             "maxLength": 255
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "key": "fbe4475c-1729-4638-b94f-5f481735fceb",
-            "title": "banner-full-width",
-            "icon": "sicon-store",
-            "path": "home.fixed-banner-full-width",
-            "fields": [
-                {
-                    "id": "collection",
-                    "key": "094d98b6-69f7-4cbf-85df-fe3371344a49",
-                    "type": "collection",
-                    "format": "collection",
-                    "label": "Collection",
-                    "description": null,
-                    "labelHTML": null,
-                    "item_label": null,
-                    "icon": "sicon-list-add",
-                    "fields": [
-                        {
-                            "id": "banner",
-                            "key": "80aa0a01-a4a2-4fb2-a10a-0267b84221e4",
-                            "type": "string",
-                            "format": "image",
-                            "label": "Banner",
-                            "description": null,
-                            "labelHTML": null,
-                            "placeholder": "e.g. https://hostname.com/image.png",
-                            "icon": "sicon-image",
-                            "value": null,
-                            "required": false
-                        },
-                        {
-                            "id": "string",
-                            "key": "adaeccf0-c12e-4c0e-8d67-f21ce9126265",
-                            "type": "string",
-                            "format": "text",
-                            "label": "String",
-                            "description": null,
-                            "labelHTML": null,
-                            "placeholder": "Placeholder text ..",
-                            "icon": "sicon-format-text-alt",
-                            "value": null,
-                            "multilanguage": false,
-                            "required": false,
-                            "minLength": 6,
-                            "maxLength": 30,
-                            "defaulted": true
-                        },
-                        {
-                            "id": "text_area",
-                            "key": "08f871ad-27f7-420c-93f7-bc9519c38ad4",
-                            "type": "string",
-                            "format": "textarea",
-                            "label": "Text Area",
-                            "description": null,
-                            "labelHTML": null,
-                            "placeholder": "Your text here",
-                            "icon": "sicon-typography",
-                            "value": null,
-                            "multilanguage": false,
-                            "required": false,
-                            "minLength": 20,
-                            "maxLength": 255,
-                            "defaulted": true
-                        },
-                        {
-                            "id": "switch",
-                            "key": "bb2d32e5-0f76-43f7-9cb7-7cbda465fa00",
-                            "type": "boolean",
-                            "format": "switch",
-                            "label": "Switch",
-                            "description": null,
-                            "labelHTML": null,
-                            "icon": "sicon-toggle-off",
-                            "value": true,
-                            "selected": false,
-                            "required": false,
-                            "defaulted": true
-                        }
-                    ],
-                    "value": [],
-                    "required": false,
-                    "minLength": 1,
-                    "maxLength": 5,
-                    "defaulted": true
                 }
             ]
         }
